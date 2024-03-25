@@ -1,4 +1,4 @@
-# network-scanner
+# Network-Scanner
  Simple network scanner built with Scapy for Python
 
 ## Usage
